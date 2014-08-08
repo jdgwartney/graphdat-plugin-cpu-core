@@ -1,5 +1,5 @@
 {
     "description" : "Provides per core CPU utilization",
 	"command" : "node index.js $(pollInterval)",
-	"metrics" : ["CPU_CORE_JDG"]
+	"metrics" : ["CPU_CORE_LERMA"]
 }
