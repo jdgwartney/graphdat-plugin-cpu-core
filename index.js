@@ -26,7 +26,7 @@ function poll()
 			var user = (e.times.user - l.times.user)  /
 					   (e.total - l.total);
 
-			console.log('CPU_CORE_JDG %d %s-%d',
+			console.log('CPU_CORE_LERMA %d %s-%d',
 				user, _source, idx + 1);
 		}
 	}
